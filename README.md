@@ -3,7 +3,7 @@
 This github action wraps the shfmt cli tool. Example:
 
 ```yaml
-name: Base Path Image Build
+name: Test
 
 on:
   pull_request:
