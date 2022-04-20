@@ -1,0 +1,9 @@
+name: shfmt-action
+description: Wraps the shellfmt cli to enable shellfmt commands.
+author: collin-miller
+branding:
+  icon: "thumbs-up"
+  color: "white"
+runs:
+  using: "docker"
+  image: "Dockerfile"
